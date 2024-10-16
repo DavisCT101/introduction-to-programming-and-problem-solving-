@@ -14,7 +14,7 @@ electric bill calculator*/
 	 printf("Enter the customer name :");
 	 scanf("%s",&customerName);
 	 
-	 printf("Enter the unit price :");
+	 printf("Enter the unit consumed :");
 	 scanf("%f",&unitConsumed);
 	 
 	 if(unitConsumed<=199){
